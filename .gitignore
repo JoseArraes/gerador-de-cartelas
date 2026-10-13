@@ -1,0 +1,14 @@
+# imagens geradas e artes de clientes
+saida/
+*.png
+!docs/*.png
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# IDE
+.idea/
+.vscode/
